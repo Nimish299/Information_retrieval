@@ -1,0 +1,100 @@
+1	deep learning	0.0	1
+2	artificial intelligence	0.0	1
+3	information retrieval	0.0	3
+4	machine learning	0.0	5
+5	question answering	0.0	2
+6	noun phrases	0.0	2
+7	penn treebank	0.0	2
+8	speech recognition	0.015593528747558594	4
+9	data mining	0.0	3
+10	computer vision	0.0	5
+11	reinforcement learning	0.0	2
+12	natural language	0.0	4
+13	autoencoder	0.0	8
+14	ontology	0.0	9
+15	sentiment analysis	0.0	4
+16	sap	0.0	6
+17	lstm	0.0	7
+18	natural language processing	0.0	2
+19	semantic web	0.0	4
+20	mooc	0.0	11
+21	human computer interaction	0.0	2
+22	eye movement clustering	0.0	2
+23	semantic relations	0.0	3
+24	efficient estimation of word representations in vector space	0.015621662139892578	1
+25	big data	0.0	4
+26	audio visual fusion	0.0	2
+27	object detection	0.0	5
+28	gfdm	0.0	4
+29	neural network	0.0	3
+30	generalized extreme value	0.0	1
+31	information geometry	0.0	3
+32	image panorama video	0.0	3
+33	data science	0.015647411346435547	3
+34	semantic parsing	0.0	2
+35	augmented reality	0.0	1
+36	imbalanced data	0.0	2
+37	recommender system	0.0	3
+38	inverse reinforcement learning mixture	0.0	1
+39	transfer learning	0.0	4
+40	cnn	0.0	7
+41	dynamic programming segmentation	0.0	3
+42	natural language interface	0.0	2
+43	genetic algorithm	0.0	4
+44	prolog	0.0	7
+45	contact prediction	0.0	4
+46	wifi malware	0.0	1
+47	nsdi machine learning	0.0	1
+48	forensics and machine learning	0.0	2
+49	words to speech	0.0	3
+50	information theory	0.0	3
+51	morphology morphological	0.0	1
+52	category theory	0.0	2
+53	graph theory	0.015594720840454102	4
+54	smart thermostat	0.0	4
+55	exploit vulnerability	0.0	3
+56	reinforcement learning and video game	0.0	1
+57	system health management	0.0	3
+58	spatial multi agent systems	0.0	1
+59	service composition	0.0	3
+60	mobile payment	0.0	2
+61	3 axis gantry	0.0	3
+62	softmax categorization	0.0	1
+63	cost aggregation	0.0	2
+64	chinese dialect	0.0	2
+65	depth camera	0.0	3
+66	mobile tcp traffic analysis	0.0	2
+67	collective learning	0.0	2
+68	robust production planning	0.01562047004699707	1
+69	memory hierarchy	0.0	2
+70	hashing	0.0	6
+71	comparable corpora	0.0	1
+72	knowledge graph	0.0	3
+73	social media	0.0	3
+74	deep learning surveillance	0.0	1
+75	cryptography	0.0	5
+76	parametric max flow	0.0	1
+77	deep reinforcement learning	0.0	1
+78	varying weight grasp	0.0	1
+79	dirichlet process	0.0	1
+80	word embedding	0.0	5
+81	graph drawing	0.0	3
+82	robust principal component analysis	0.0	1
+83	differential evolution	0.0	1
+84	seq2seq	0.0	1
+85	document logical structure	0.0	2
+86	duality	0.0	6
+87	variable neighborhood search	0.0	1
+88	urban public transportation systems	0.0	1
+89	edx coursera	0.0	1
+90	fdir	0.0	3
+91	cryptography key management	0.0	1
+92	ontology construction	0.015621185302734375	2
+93	go game	0.0	5
+94	personality trait	0.0	2
+95	sparse learning	0.0	4
+96	directed hypergraph	0.0	1
+97	inventory management	0.0	2
+98	clojure	0.0	5
+99	ontology semantic web	0.0	3
+100	convolutional neural network time series	0.0	1
